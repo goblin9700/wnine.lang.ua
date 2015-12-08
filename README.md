@@ -1,2 +1,2 @@
 # wnine.lang.ua
-украинский для cms wnine http://w9cms.com/
+Украинский для cms wnine http://w9cms.com/
