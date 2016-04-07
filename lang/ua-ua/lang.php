@@ -1,29 +1,29 @@
 <?php
 //ADD 1.6
-$LANG['f_send_email'] = 'Отправка письма';
-$LANG['f_send_to_email'] = 'Отправить письмо';
+$LANG['f_send_email'] = 'Відсилання листа';
+$LANG['f_send_to_email'] = 'Відіслати лист';
 $LANG['f_your_email'] = 'Ваш E-mail';
-$LANG['f_email_sent_successfully'] = 'Сообщение успешно отправлено. Закройте это окно';
-$LANG['f_email_sent_tip'] = 'Это сообщение отправлено с сайта';
-$LANG['f_semail_empty'] = 'Автор не указал E-mail в этом объявлении';
-$LANG['f_enter_password'] = 'Введите пароли';
+$LANG['f_email_sent_successfully'] = 'Лист було відіслано.';
+$LANG['f_email_sent_tip'] = 'Це повідомлення було відіслане з сайту ';
+$LANG['f_semail_empty'] = 'E-mail не було вказано автором';
+$LANG['f_enter_password'] = 'Введіть пароль';
 //
 //ADD 1.3
-$LANG['f_confirmation_email'] = 'Подтверждение E-mail';
-$LANG['f_confirm'] = 'Подтвердить';
-$LANG['f_not_confirmed'] = 'не подтверждён';
-$LANG['f_confirmation_email_tip'] = 'Система отправит код идентификации на ваш E-mail. После отправки проверьте почту.';
-$LANG['f_sys_mess_email_identification'] = 'Это системное сообщение идентификации E-mail с сайта';
-$LANG['f_for_email_identification'] = 'Для идентификации E-mail';
-$LANG['f_go_to_link'] = 'перейдите по ссылке';
-$LANG['f_copy_to_link'] = 'или скопируйте ссылку в адресную строку браузера';
-$LANG['f_message_your_email_sent_successfully'] = 'Сообщение на ваш E-mail успешно отправлено. Проверьте почту';
-$LANG['f_failed_send_message'] = 'Не удалось отправить сообщение';
-$LANG['f_email_successfully_identified'] = 'E-mail успешно идентифицирован';
-$LANG['f_email_failed_identified'] = 'Ошибка идентификации';
-$LANG['f_your_email_confirmation'] = 'Ваш E-mail уже подтверждён';
-$LANG['f_this_option_disabled'] = 'Опция отключена администрацией';
-$LANG['f_email_identification_not'] = 'Вы не можете добавлять объявления. Пройдите идентификацию E-mail';
+$LANG['f_confirmation_email'] = 'Підтведження E-mail';
+$LANG['f_confirm'] = 'Підтвердіть';
+$LANG['f_not_confirmed'] = 'не підтверджена';
+$LANG['f_confirmation_email_tip'] = 'Система надішле код ідентифікації на ваш E-mail. Після надсилання перевірте пошту.';
+$LANG['f_sys_mess_email_identification'] = 'Це системне сповіщення для ідентифікації E-mail з сайту';
+$LANG['f_for_email_identification'] = 'Для ідентифікації E-mail';
+$LANG['f_go_to_link'] = 'перейдіть за посиланням';
+$LANG['f_copy_to_link'] = 'або скопіюйте посилання до адресної строки браузера';
+$LANG['f_message_your_email_sent_successfully'] = 'Лист на E-mail відіслано. Перевірте пошту';
+$LANG['f_failed_send_message'] = 'Лист не був відісланий';
+$LANG['f_email_successfully_identified'] = 'E-mail підтверджено';
+$LANG['f_email_failed_identified'] = 'Помилка підтвердження';
+$LANG['f_your_email_confirmation'] = 'Ваш E-mail вже підтверджено';
+$LANG['f_this_option_disabled'] = 'Опція вимкнена адміністрацією';
+$LANG['f_email_identification_not'] = 'Додавати оголошення зможете тільки після підтвердження E-mail';
 //
 //ADD 1.2
 $LANG['f_add_listing_cat_pay_log_in'] = 'Щоб додати оголошення до цієї категогії, увійдіть в панель керування';
