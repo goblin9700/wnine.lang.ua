@@ -1,4 +1,8 @@
 <?php
+//ADD 1.6
+$LANG['show_form_send_email'] = 'Відображати форму відправлення E-mail';
+$LANG['show_form_send_email_tip'] = 'Форма відправлення E-mail автору оголошення буде доступна, якщо автор вказав E-mail в оголошенні';
+//
 //ADD 1.4
 $LANG['seo_type_rewrite_title'] = 'Псевдо-статична (назва)';
 $LANG['key_pay'] = 'Ключ для платних опцій';

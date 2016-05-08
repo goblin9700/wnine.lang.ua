@@ -9,7 +9,7 @@ $LANG['f_semail_empty'] = 'E-mail не було вказано автором';
 $LANG['f_enter_password'] = 'Введіть пароль';
 //
 //ADD 1.3
-$LANG['f_confirmation_email'] = 'Підтведження E-mail';
+$LANG['f_confirmation_email'] = 'Підтвердження E-mail';
 $LANG['f_confirm'] = 'Підтвердіть';
 $LANG['f_not_confirmed'] = 'не підтверджена';
 $LANG['f_confirmation_email_tip'] = 'Система надішле код ідентифікації на ваш E-mail. Після надсилання перевірте пошту.';
