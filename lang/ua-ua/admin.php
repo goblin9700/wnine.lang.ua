@@ -1,4 +1,7 @@
 <?php
+//ADD 1.8
+$LANG['key_google_geocoder'] = 'Ключ геокодера Google';
+$LANG['key_google_geocoder_tip'] = 'Дивіться інструкцію в архіві: <u>інструкції - Ключ геокодера Google</u>';
 //ADD 1.6
 $LANG['show_form_send_email'] = 'Відображати форму відправлення E-mail';
 $LANG['show_form_send_email_tip'] = 'Форма відправлення E-mail автору оголошення буде доступна, якщо автор вказав E-mail в оголошенні';
