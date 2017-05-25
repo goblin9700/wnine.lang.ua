@@ -1,4 +1,17 @@
 <?php
+//ADD 2.4
+$LANG['f_characters_left'] = 'Залишилось символів';
+$LANG['f_zone_grag'] = 'Перетягніть зображення в цю ділянку';
+$LANG['f_zone_click'] = 'або натисніть';
+$LANG['f_file_not_found'] = 'Файл не знайдено';
+$LANG['f_max_images'] = 'Макс. зображень';
+$LANG['f_max_single_file_size'] = 'Макс. розмір одного файла';
+$LANG['f_file_size'] = 'Розмір файла';
+$LANG['f_file_size_tip'] = 'перевищує дозволений';
+$LANG['f_incorrect_type_image'] = 'Неприпустиме розширення файла';
+$LANG['f_allowed_only'] = 'Дозволені тільки';
+$LANG['f_changed_d'] = 'Змінено';
+
 //ADD 1.6
 $LANG['f_send_email'] = 'Відсилання листа';
 $LANG['f_send_to_email'] = 'Відіслати лист';
